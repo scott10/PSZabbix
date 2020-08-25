@@ -1,3 +1,7 @@
+# All credit should go to https://github.com/marcanpilami/PSZabbix
+I am merely extending this for personal use
+
+
 # What is PSZabbix
 
 A powershell module for automating Zabbix administration.
